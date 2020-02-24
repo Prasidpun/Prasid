@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Prasid project 1</title>
+    <li rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+<div class="outer-layer">
+  <div class="header">
+    Tu Tangle
+    <input type="text" class="bottom">
+    <a href="#" class="search">search</a>
+    <div class="organizer">
+    Joe Burros
+    </div>
+
+    <div class="detail">
+      Home|Setting|Log out
+    </div>
+  </div>
+  <div class="contant">
+  </div>
+  <div class="footer">
+  </div>
+  </div>
+</body>
+</html>
