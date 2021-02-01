@@ -9,7 +9,7 @@ int main()
  scanf("%d",saving);
  printf("enter the amount he wanna have at the time of retirement");
  scanf("%d",amount);
- for (t=0;a=amount;t=t+1)
+ for (t=0;a<amount;t=t+1)
  {
      a = a + saving;
  }
